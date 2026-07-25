@@ -41,6 +41,7 @@ Building reliable backend software with C# and .NET.
  - Finance Tracker App
  - Student Management System
  -  C# Learning Projects
+ -  RU cafe ordering system
 
 <br>
 
