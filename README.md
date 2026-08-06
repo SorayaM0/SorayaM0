@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Soraya Mosavi</h2>
+<h2>Hi , I'm Soraya Mosavi</h2>
 
 <p>
   <strong> Computer Science Student|Backend Software Engineering Enthusiast</strong> 🌷
