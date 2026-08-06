@@ -1,79 +1,51 @@
-<h1 align="center">Hi  I'm Soraya Mosavi</h1>
+<h2>Hi 👋, I'm Soraya Mosavi</h2>
 
-<h3 align="center"> Computer Science Student | Backend Software Engineering Enthusiast </h3>
-
-<p align="center">
-Building reliable backend software with C# and .NET.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SorayaM0&label=Profile%20Views&color=ff69b4&style=flat"/>
+<p>
+  <strong>Backend Software Engineering Enthusiast</strong> 🌷
 </p>
 
 <table>
 <tr>
+<td width="62%" valign="top">
 
-<td width="58%" valign="top">
-
-##  About Me
-
- Passionate about **Backend Software Engineering**
-
- Building applications with **C#** and **.NET**
-
- Learning through real-world projects and continuous improvement
-
- <a href="mailto:sorayamosavi36@gmail.com">sorayamosavi36@gmail.com</a>
-
-<br>
-
-##  Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql"/>
-</p>
-
-<br>
-
-## Featured Projects
-
-  - Cafe Management System
- - Finance Tracker App
- - Student Management System
- -  C# Learning Projects
- -  RU cafe ordering system
-
-<br>
-
-## Connect
-
-<a href="https://www.linkedin.com/in/sorayamosavi">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
-</a>
+<ul>
+  <li>💜 Passionate about <strong>Backend Software Engineering</strong></li>
+  <li>💻 Building applications with <strong>C#</strong> and <strong>.NET</strong></li>
+  <li>🚀 Currently working on a <strong>Student Management System</strong></li>
+  <li>☕ Planning a <strong>Cafe Management System</strong></li>
+  <li>📚 Growing through projects, problem-solving, and consistent practice</li>
+  <li>📫 Reach me at <a href="mailto:sorayamosavi36@gmail.com">sorayamosavi36@gmail.com</a></li>
+</ul>
 
 </td>
 
-<td width="42%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img src="./girl-coding.png" width="360"/>
+<img src="./girl-coding.png" width="270" alt="Girl coding at a computer"/>
 
 </td>
-
 </tr>
 </table>
 
-<br>
+<h3>🛠️ Languages and Tools</h3>
 
-## 📊  Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SorayaM0&theme=github-compact&hide_border=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql,html,css" alt="Technology icons"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SorayaM0&theme=rose-pine&hide_border=true" />
-</p>
+<h3>🚀 Featured Projects</h3>
 
-<p align="center">
- Thanks for visiting my profile!
+<ul>
+  <li>📚 <strong>Student Management System</strong> — <em>In progress</em></li>
+  <li>☕ <strong>Cafe Management System</strong> — <em>Coming soon</em></li>
+  <li>🧮 <strong>C# Mini Projects</strong></li>
+  <li>🌐 <strong>Portfolio Website</strong> — <em>Coming soon</em></li>
+</ul>
+
+<h3>🤝 Connect with Me</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/sorayamosavi">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/>
+  </a>
 </p>
