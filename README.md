@@ -12,7 +12,6 @@
   <li>💜 Passionate about <strong>Backend Software Engineering</strong></li>
   <li>💻 Building applications with <strong>C#</strong> and <strong>.NET</strong></li>
   <li>🚀 Currently working on a <strong>Student Management System</strong></li>
-  <li>☕ Planning a <strong>Cafe Management System</strong></li>
   <li>📚 Growing through projects, problem-solving, and consistent practice</li>
   <li>📫 Reach me at <a href="mailto:sorayamosavi36@gmail.com">sorayamosavi36@gmail.com</a></li>
 </ul>
@@ -38,7 +37,7 @@
 <ul>
   <li>📚 <strong>Student Management System</strong></li>
   <li>☕ <strong>Cafe Management System</strong></li>
-   <li>☕ <strong>Cafe Finance Tracker app </strong></li>
+   <li>☕ <strong>Finance Tracker app </strong></li>
   
 </ul>
 
