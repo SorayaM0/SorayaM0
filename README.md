@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Soraya Mosavi</h2>
 
 <p>
-  <strong>Backend Software Engineering Enthusiast</strong> 🌷
+  <strong> Computer Science Student|Backend Software Engineering Enthusiast</strong> 🌷
 </p>
 
 <table>
@@ -36,10 +36,10 @@
 <h3>🚀 Featured Projects</h3>
 
 <ul>
-  <li>📚 <strong>Student Management System</strong> — <em>In progress</em></li>
-  <li>☕ <strong>Cafe Management System</strong> — <em>Coming soon</em></li>
-  <li>🧮 <strong>C# Mini Projects</strong></li>
-  <li>🌐 <strong>Portfolio Website</strong> — <em>Coming soon</em></li>
+  <li>📚 <strong>Student Management System</strong></li>
+  <li>☕ <strong>Cafe Management System</strong></li>
+   <li>☕ <strong>Cafe Finance Tracker app </strong></li>
+  
 </ul>
 
 <h3>🤝 Connect with Me</h3>
