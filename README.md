@@ -1,6 +1,9 @@
 <p align="center">
   <strong>Soraya Mosavi</strong><br>
-  Computer Science Student · Backend Software Engineering<br>
+  Computer Science Student · Backend Software Engineering
+</p>
+
+<p align="center">
   <sub>C# · ASP.NET Core · SQL · Java · Python</sub>
 </p>
 
@@ -20,9 +23,11 @@
 
 <p>
   <strong>Technical Stack</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,mysql,git,github,visualstudio,vscode"
-       height="32"
-       alt="Technical Stack">
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,java,python,mysql,git,github,visualstudio,vscode"
+    height="32"
+    alt="C#, .NET, Java, Python, MySQL, Git, GitHub, Visual Studio, VS Code"
+  />
 </p>
 
 <p>
@@ -39,32 +44,31 @@
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
   <strong>Portfolio Tracker API</strong><br>
-  <sub>C# · ASP.NET Core · SQL</sub><br><br>
-  <small>
-    RESTful portfolio management API with Clean Architecture,
-    authentication, authorization, and CRUD operations.
-  </small>
+  <sub>C# · ASP.NET Core · SQL</sub>
+  <br><br>
+  RESTful portfolio management API built with Clean Architecture,
+  authentication, authorization, and CRUD operations.
 </td>
 
 <td width="33%" valign="top">
   <strong>RU Cafe Ordering System</strong><br>
-  <sub>Java · JavaFX · Maven</sub><br><br>
-  <small>
-    Desktop ordering application with menu management,
-    dynamic pricing, order processing, and file exports.
-  </small>
+  <sub>Java · JavaFX · Maven</sub>
+  <br><br>
+  Desktop ordering application with menu management, dynamic pricing,
+  order processing, and file export functionality.
 </td>
 
 <td width="33%" valign="top">
   <strong>Student Management System</strong><br>
-  <sub>C# · .NET · OOP</sub><br><br>
-  <small>
-    Student records application with GPA calculations,
-    CRUD operations, and object-oriented design.
-  </small>
+  <sub>C# · .NET · OOP</sub>
+  <br><br>
+  Student records application with GPA calculations, CRUD operations,
+  and object-oriented design.
 </td>
+
 </tr>
 </table>
 
