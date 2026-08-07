@@ -10,39 +10,24 @@
 
 <br>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 <h3>About</h3>
 
 <p>
-Computer Science student at Rutgers University with an interest in
-backend software engineering and API development.
+Computer Science student at Rutgers University interested in backend
+software engineering and API development. I build applications with
+C#, ASP.NET Core, and SQL, with a focus on clean architecture,
+object-oriented design, and maintainable software.
 </p>
-
-<p>
-Currently building applications with C#, ASP.NET Core, and SQL,
-with a focus on clean architecture and object-oriented design.
-</p>
-
-</td>
-
-<td width="40%" align="center" valign="middle">
-
-<img src="./girl-coding.png" width="230" alt="Developer illustration"/>
-
-</td>
-</tr>
-</table>
 
 <br>
 
-<h3>Technical Skills</h3>
+<h3>Technologies</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,mysql,git,github,visualstudio,vscode" 
-       alt="Technical skills"/>
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,java,python,mysql,git,github,visualstudio,vscode"
+    alt="C#, .NET, Java, Python, MySQL, Git, GitHub, Visual Studio, and VS Code"
+  />
 </p>
 
 <br>
@@ -51,6 +36,7 @@ with a focus on clean architecture and object-oriented design.
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 <strong>Portfolio Tracker API</strong>
@@ -61,9 +47,14 @@ with a focus on clean architecture and object-oriented design.
 
 <br><br>
 
-RESTful API for investment portfolio management built with Clean Architecture, authentication, authorization, and CRUD operations.
+RESTful API for investment portfolio management built with Clean Architecture, authentication and authorization, and CRUD operations.
+
+<br><br>
+
+<a href="YOUR_PORTFOLIO_TRACKER_REPO">View Project →</a>
 
 </td>
+
 
 <td width="33%" valign="top">
 
@@ -75,9 +66,14 @@ RESTful API for investment portfolio management built with Clean Architecture, a
 
 <br><br>
 
-Desktop ordering application supporting menu management, order processing, dynamic pricing, and file exports.
+Desktop ordering application supporting menu management, order processing, dynamic pricing, and file export functionality.
+
+<br><br>
+
+<a href="YOUR_CAFE_PROJECT_REPO">View Project →</a>
 
 </td>
+
 
 <td width="33%" valign="top">
 
@@ -89,9 +85,14 @@ Desktop ordering application supporting menu management, order processing, dynam
 
 <br><br>
 
-Student records management application supporting GPA calculations, CRUD operations, and structured data management.
+Student management application supporting student records, GPA calculations, CRUD operations, and structured data management.
+
+<br><br>
+
+<a href="YOUR_STUDENT_MANAGEMENT_REPO">View Project →</a>
 
 </td>
+
 </tr>
 </table>
 
@@ -101,6 +102,6 @@ Student records management application supporting GPA calculations, CRUD operati
 
 <p>
   <a href="https://www.linkedin.com/in/sorayamosavi">LinkedIn</a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:sorayamosavi36@gmail.com">Email</a>
 </p>
