@@ -49,12 +49,7 @@ object-oriented design, and maintainable software.
 
 RESTful API for investment portfolio management built with Clean Architecture, authentication and authorization, and CRUD operations.
 
-<br><br>
-
-<a href="YOUR_PORTFOLIO_TRACKER_REPO">View Project →</a>
-
 </td>
-
 
 <td width="33%" valign="top">
 
@@ -68,12 +63,7 @@ RESTful API for investment portfolio management built with Clean Architecture, a
 
 Desktop ordering application supporting menu management, order processing, dynamic pricing, and file export functionality.
 
-<br><br>
-
-<a href="YOUR_CAFE_PROJECT_REPO">View Project →</a>
-
 </td>
-
 
 <td width="33%" valign="top">
 
@@ -86,10 +76,6 @@ Desktop ordering application supporting menu management, order processing, dynam
 <br><br>
 
 Student management application supporting student records, GPA calculations, CRUD operations, and structured data management.
-
-<br><br>
-
-<a href="YOUR_STUDENT_MANAGEMENT_REPO">View Project →</a>
 
 </td>
 
