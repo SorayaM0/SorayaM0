@@ -1,90 +1,106 @@
-<h2>Hi, I'm Soraya Mosavi 👋</h2>
+<h1 align="center">Soraya Mosavi</h1>
 
-<p>
-  <strong>Computer Science Student • Aspiring Backend Software Engineer</strong> 🌷
+<p align="center">
+  Computer Science Student · Backend Software Engineering
 </p>
+
+<p align="center">
+  C# · ASP.NET Core · SQL · Java · Python
+</p>
+
+<br>
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
-<ul>
-  <li>💜 Passionate about <strong>Backend Software Engineering</strong></li>
-  <li>💻 Building applications with <strong>C#</strong> and <strong>.NET</strong></li>
-  <li>🚀 Currently working on a <strong>Student Management System</strong></li>
-  <li>📚 Growing through projects, problem-solving, and consistent practice</li>
-  <li>📫 Reach me at <a href="mailto:sorayamosavi36@gmail.com">sorayamosavi36@gmail.com</a></li>
-</ul>
+<h3>About</h3>
+
+<p>
+Computer Science student at Rutgers University with an interest in
+backend software engineering and API development.
+</p>
+
+<p>
+Currently building applications with C#, ASP.NET Core, and SQL,
+with a focus on clean architecture and object-oriented design.
+</p>
 
 </td>
 
-<td width="38%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="./girl-coding.png" width="270" alt="Illustration of a developer coding at a computer"/>
+<img src="./girl-coding.png" width="230" alt="Developer illustration"/>
 
 </td>
 </tr>
 </table>
 
-<h3>🛠️ Languages & Tools</h3>
+<br>
+
+<h3>Technical Skills</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql,html,css" 
-       alt="C Sharp, .NET, Git, GitHub, VS Code, Visual Studio, MySQL, HTML and CSS"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,mysql,git,github,visualstudio,vscode" 
+       alt="Technical skills"/>
 </p>
 
-<h3>🚀 Featured Projects</h3>
+<br>
+
+<h3>Selected Projects</h3>
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<strong>🎓 Student Management System</strong>
+<strong>Portfolio Tracker API</strong>
 
 <br><br>
 
-C# • .NET • MySQL
+<sub>C# · ASP.NET Core · SQL</sub>
 
 <br><br>
 
-Backend-focused application for managing students and academic information.
+RESTful API for investment portfolio management built with Clean Architecture, authentication, authorization, and CRUD operations.
 
 </td>
 
 <td width="33%" valign="top">
 
-<strong>☕ Cafe Management System</strong>
+<strong>RU Cafe Ordering System</strong>
 
 <br><br>
 
-C# • .NET
+<sub>Java · JavaFX · Maven</sub>
 
 <br><br>
 
-Application for managing cafe operations, orders, and related data.
+Desktop ordering application supporting menu management, order processing, dynamic pricing, and file exports.
 
 </td>
 
 <td width="33%" valign="top">
 
-<strong>💰 Finance Tracker</strong>
+<strong>Student Management System</strong>
 
 <br><br>
 
-C# • .NET
+<sub>C# · .NET · OOP</sub>
 
 <br><br>
 
-Application for tracking income, expenses, and personal finances.
+Student records management application supporting GPA calculations, CRUD operations, and structured data management.
 
 </td>
 </tr>
 </table>
 
-<h3>🤝 Connect with Me</h3>
+<br>
+
+<h3>Connect</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/sorayamosavi">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/sorayamosavi">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:sorayamosavi36@gmail.com">Email</a>
 </p>
