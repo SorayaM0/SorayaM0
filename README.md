@@ -14,7 +14,7 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/sorayamosavi">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="https://sorayam0.github.io/portfolio/">Portfolio</a>
 </p>
 
 <hr>
