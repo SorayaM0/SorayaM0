@@ -4,21 +4,11 @@
 
 ### Computer Science Student at Rutgers University
 
-<a href="https://www.linkedin.com/in/sorayamosavi">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://sorayam0.github.io/portfolio/">
-  <img src="https://cdn.simpleicons.org/vercel/000000" width="32" height="32" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:sorayamosavi36@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email"/>
-</a>
+<a href="https://www.linkedin.com/in/sorayamosavi">LinkedIn</a> •
+<a href="https://sorayam0.github.io/portfolio/">Portfolio</a> •
+<a href="mailto:sorayamosavi36@gmail.com>Email</a>
 
 </div>
-
----
 
 ## 👩‍💻 About Me
 
