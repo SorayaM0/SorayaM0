@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SorayaM0">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Soraya" alt="Hello! I&#39;m Soraya" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=30bcf8&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Soraya" alt="Hello! I&#39;m Soraya" />
   </a>
 </p>
 
@@ -51,13 +51,13 @@ I'm especially interested in the intersection of engineering and product — und
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SorayaM0&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SorayaM0&layout=compact&theme=tokyonight&title_color=30bcf8&icon_color=30bcf8&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SorayaM0&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SorayaM0&bg_color=00000000&color=30bcf8&line=30bcf8&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
