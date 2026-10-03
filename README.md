@@ -1,64 +1,117 @@
-<p align="center">
-  <a href="https://github.com/SorayaM0">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=30bcf8&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Soraya" alt="Hello! I&#39;m Soraya" />
-  </a>
+<div align="center">
+
+# Hi, I'm Soraya 👋
+
+### Computer Science Student at Rutgers University
+
+<a href="https://www.linkedin.com/in/sorayamosavi">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://sorayam0.github.io/portfolio/">
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="32" height="32" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:sorayamosavi36@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a Computer Science student at **Rutgers University** interested in
+**software engineering, full-stack development, and backend systems**.
+
+I enjoy building applications that solve real problems and working across the
+development lifecycle — from designing databases and REST APIs to building
+responsive interfaces, testing applications, and deploying software.
+
+- 🎓 Computer Science student at Rutgers University
+- 💻 Interested in Software Engineering & Full-Stack Development
+- 🛠️ Building with Java, Python, React, and TypeScript
+- 🌱 Expanding my knowledge of backend architecture and system design
+- 🚀 Enjoy turning ideas into practical, working software
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cs,js,ts,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=565&height=44&lines=Computer%20Science%20student%20at%20Rutgers;Aspiring%20software%20engineer" alt="Typing headlines" />
+### Frameworks & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,spring,fastapi,dotnet" />
 </p>
 
-### 🚀 About Me
+### Databases
 
-I'm a Computer Science student at Rutgers University interested in software engineering and product development. I enjoy building full-stack applications, designing backend systems, working with databases, and turning ideas into useful software experiences.  
-I'm especially interested in the intersection of engineering and product — understanding not only how to build software, but how technical decisions, user needs, and product thinking come together.
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 </p>
 
-### 🔗 Connect With Me
+### Developer Tools
 
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/sorayamosavi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://sorayam0.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:sorayamosavi36@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SorayaM0&layout=compact&theme=tokyonight&title_color=30bcf8&icon_color=30bcf8&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SorayaM0&bg_color=00000000&color=30bcf8&line=30bcf8&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,vite,vscode" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/SorayaM0">SorayaM0</a></i></p>
+
+## 🚀 Featured Projects
+
+### 🎯 CareerPilot
+
+AI-powered full-stack job application platform for managing opportunities,
+tracking application progress, analyzing job descriptions, and preparing for
+interviews.
+
+**Tech:** React • TypeScript • Java • Spring Boot • PostgreSQL • OpenAI • JWT • Docker
+
+[View Repository](https://github.com/SorayaM0/career-pilot)
+
+---
+
+### 🚌 RouteRU
+
+Rutgers–New Brunswick transit route planner that processes GTFS transit data
+and uses a time-dependent routing algorithm to find practical bus journeys
+across campus.
+
+**Tech:** React • TypeScript • Python • FastAPI • GTFS • pytest
+
+---
+
+### 🎓 StudyMatch — In Development
+
+University platform that helps students find compatible study partners based on
+shared courses, availability, study preferences, and academic goals.
+
+**Tech:** React • TypeScript • Python • FastAPI • PostgreSQL
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SorayaM0&show_icons=true&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorayaM0&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 👋
+
+</div>
