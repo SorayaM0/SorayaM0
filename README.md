@@ -1,134 +1,61 @@
 <p align="center">
-  <strong>Soraya Mosavi</strong><br>
-  Computer Science @ Rutgers University · Software Engineering
+  <a href="https://github.com/SorayaM0">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Soraya" alt="Hello! I&#39;m Soraya" />
+  </a>
 </p>
+
+### 🚀 About Me
+
+I'm a Computer Science student at Rutgers University interested in software engineering and product development. I enjoy building full-stack applications, designing backend systems, working with databases, and turning ideas into useful software experiences.  
+I'm especially interested in the intersection of engineering and product — understanding not only how to build software, but how technical decisions, user needs, and product thinking come together.
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/sorayamosavi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://sorayam0.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:sorayamosavi36@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <sub>
-    Building thoughtful, human-centered software across backend, frontend, and product.
-  </sub>
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SorayaM0&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SorayaM0&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+
+### 📈 Contribution Graph
 
 <p align="center">
-  <a href="mailto:sorayamosavi36@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/sorayamosavi">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://sorayam0.github.io/portfolio/">Portfolio</a>
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SorayaM0&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-<hr>
-
-<p>
-  <strong>About Me</strong><br><br>
-  I'm a Computer Science student at Rutgers University interested in
-  software engineering and product development. I enjoy building full-stack
-  applications, designing backend systems, working with databases, and
-  turning ideas into useful software experiences.
-</p>
-
-<p>
-  I'm especially interested in the intersection of engineering and product —
-  understanding not only how to build software, but how technical decisions,
-  user needs, and product thinking come together.
-</p>
-
-<br>
-
-<p>
-  <strong>Tech Stack</strong><br><br>
-
-  <img
-    src="https://skillicons.dev/icons?i=java,spring,react,ts,cs,dotnet,python,postgres,mysql,docker,git,github,vscode"
-    height="32"
-    alt="Java, Spring, React, TypeScript, C#, .NET, Python, PostgreSQL, MySQL, Docker, Git, GitHub, VS Code"
-  />
-</p>
-
-<p>
-  <sub>
-    <strong>Languages:</strong>
-    Java · C# · Python · TypeScript · JavaScript · SQL
-    <br>
-    <strong>Backend:</strong>
-    Spring Boot · ASP.NET Core · REST APIs · PostgreSQL · MySQL
-    <br>
-    <strong>Frontend:</strong>
-    React · TypeScript · HTML · CSS · JavaFX
-    <br>
-    <strong>Tools & Concepts:</strong>
-    Git · GitHub · Docker · OOP · JWT · Authentication & Authorization
-  </sub>
-</p>
-
-<br>
-
-<p>
-  <strong>Featured Projects</strong>
-</p>
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-  <strong>CareerPilot</strong><br>
-  <sub>React · TypeScript · Spring Boot · PostgreSQL · OpenAI</sub>
-  <br><br>
-  Full-stack job application platform for tracking opportunities,
-  managing hiring pipelines, analyzing job descriptions with AI,
-  and visualizing job-search activity.
-  <br><br>
-  <a href="https://github.com/SorayaM0/career-pilot">
-    View Project →
-  </a>
-</td>
-
-<td width="33%" valign="top">
-  <strong>RU Cafe Ordering System</strong><br>
-  <sub>Java · JavaFX · SQLite</sub>
-  <br><br>
-  Desktop cafe management application for handling menu items,
-  customer orders, pricing, and cafe operations through an
-  interactive graphical interface.
-  <br><br>
-  <a href="https://github.com/SorayaM0/ru-cafe-ordering-system">
-    View Project →
-  </a>
-</td>
-
-<td width="33%" valign="top">
-  <strong>Student Grade Tracker</strong><br>
-  <sub>Java · JavaFX · Maven · OOP</sub>
-  <br><br>
-  Desktop application for managing students and academic performance
-  with automatic averages, class statistics, validation, and
-  top-student identification.
-  <br><br>
-  <a href="https://github.com/SorayaM0/student-grade-tracker">
-    View Project →
-  </a>
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p>
-  <strong>Currently</strong><br><br>
-  <sub>
-    💻 Building full-stack software projects
-    &nbsp;·&nbsp;
-    🧠 Strengthening problem-solving and system design
-    &nbsp;·&nbsp;
-    🌷 Exploring software engineering & product development
-  </sub>
-</p>
-
-<hr>
-
-<p align="center">
-  <sub>
-    Always learning, building, and improving.
-  </sub>
-</p>
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/SorayaM0">SorayaM0</a></i></p>
